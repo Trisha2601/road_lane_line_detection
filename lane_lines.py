@@ -4,6 +4,7 @@ blah
 import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
 import numpy as np
+
 import cv2
 from moviepy.editor import VideoFileClip
 import math
